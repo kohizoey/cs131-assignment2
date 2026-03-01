@@ -17,4 +17,12 @@ public class VennDiagram {
         return result;
     }
 
+    /* Test union and intersection functions
+    public static void main(String[] args) {
+        Set<String> setA = new HashSet<>(Arrays.asList("1", "2", "3", "cat", "horse"));
+        Set<String> setB = new HashSet<>(Arrays.asList("3","cat", "dog","4", "5")); 
+        System.out.println("Union: " + union(setA, setB));
+        System.out.println("Intersection: " + intersection(setA, setB));
+    } 
+    */
 }
